@@ -1,0 +1,6 @@
+﻿A string is a sequence of characters stored in a certain address in memory.
+Remember the type char? In the variable of type char we can record only one 
+character. Where it is necessary to process more than one character then strings come to our aid.
+What is typical for the string data type?
+System.String is reference type.
+String objects are like arrays of characters (char[])

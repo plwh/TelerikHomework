@@ -1,0 +1,4 @@
+﻿System.String is reference type.
+String objects are like arrays of characters (char[])
+- They have fixed length (String.Length)
+- Elements can be accessed directly by index (index is in range [0..Length-1])

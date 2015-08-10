@@ -1,0 +1,7 @@
+Word in Occurences 2
+Word is Occurences 2
+Word char Occurences 2
+Word aid Occurences 1
+Word more Occurences 1
+Word one  Occurences 1
+Word string  Occurences 1

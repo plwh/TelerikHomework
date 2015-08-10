@@ -1,0 +1,7 @@
+﻿string 
+one 
+more
+char
+aid
+is
+in

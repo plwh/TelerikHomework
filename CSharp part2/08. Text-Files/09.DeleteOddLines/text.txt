@@ -1,0 +1,5 @@
+﻿line1 C# provides several ways to read files but not all are easy and intuitive to use
+line2 This is why we will use the StreamReader class. The System.IO.
+line3 StreamReader class provides the easiest way to read a text file, 
+line4 as it resembles reading from the console, which by now you have probably 
+line5 mastered to perfection.
