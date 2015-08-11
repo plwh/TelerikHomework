@@ -1,0 +1,23 @@
+
+1.SharpDevelop
+
+SharpDevelop is a freely available open source IDE built with the C# language. It provides a great example of what you can achieve with the .NET platform, but it doesn't restrict you to C#. It is similar to Visual Studio .NET in both appearance and features. It allows you to develop all types of applications including ASP.NET, Windows Forms, and console.
+
+2.Eclipse
+
+Eclipse is an open, extensible IDE framework developed by IBM. It was originally developed for the Java language. It is built on a mechanism for discovering, integrating, and running modules called plug-ins. That is, a tool provider writes a tool as a separate plug-in that operates on files in the workspace and surfaces its tool-specific user interface in the IDE. One such plug-in is the C# Plugin from Improve Technologies. 
+
+3.PrimalCode
+
+PrimalCode is a commercially available .NET IDE available from Sapien. The company describes it as an innovative .NET development environment, incorporating complete scripting and .NET development capability in a compact size that works with your existing hardware. PrimalCode includes two other Sapien tools: PrimalScript and PrimalDiff. In addition to .NET support, PrimalCode supports more than 30 languages including Perl, classic ASP, PHP, ColdFusion, VBScript, JSP, and WMI.
+
+4.MonoDevelop
+
+MonoDevelop is a freely available IDE for the Linux platform. It is connected with the Mono project. It is a simple IDE allowing development of C# code. It includes various Visual Studio .NET features like code completion, extensive help, class management, and an integrated debugger. It is still in the early stages of development so it will continue to add features, including support for building GUI interfaces.
+
+5.NetBeans
+
+A free, open-source Integrated Development Environment for software developers. You get all the tools you need to create professional desktop, enterprise, web, and mobile applications with the Java language, C/C++, and even dynamic languages such as PHP, JavaScript, Groovy, and Ruby. NetBeans IDE is easy to install and use straight out of the box and runs on many platforms including Windows, Linux, Mac OS X and Solaris.
+
+6.QT SDK
+Qt is cross-platform application and UI framework which allows you to develop applications and user interfaces once, and deploy them across Windows, Mac, Linux/X11, embedded Linux, Windows CE, Symbian, Maemo, MeeGo, iOS and Android without rewriting the source code.
